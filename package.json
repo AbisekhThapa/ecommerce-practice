@@ -10,10 +10,21 @@
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.2.3",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
     "next": "13.1.6",
+    "nookies": "^2.5.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "18.2.0",
+    "react-stripe-checkout": "^2.6.3",
+    "stripe": "^11.9.1",
+    "uuid": "^9.0.0"
   }
 }
